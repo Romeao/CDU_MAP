@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "my-app2",
+    "slug": "my-app2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "my-app2",
+  "ios":{
+    "supportsTablet": true
+  },
+"android":{
+  "config":{
+    "googleMaps": {
+      "apiKey": "AIzaSyAjeXslms5w82HAfl5unpcWBvaslnFi0gc"
+    }
+  }
+}
+}
